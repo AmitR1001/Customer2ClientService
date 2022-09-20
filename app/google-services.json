@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150584428978",
+    "project_id": "c2cservice-ec98d",
+    "storage_bucket": "c2cservice-ec98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150584428978:android:20cba4ed7a2eb13ac77cab",
+        "android_client_info": {
+          "package_name": "com.instinct.c2cservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150584428978-kcbdkctla51afevro6o6f6g2ctalnb03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNsaZAmXCF5IeqLlARjVUS28kgxc-xJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150584428978-kcbdkctla51afevro6o6f6g2ctalnb03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
